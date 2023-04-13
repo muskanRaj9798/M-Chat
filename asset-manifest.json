@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/M-Chat/static/css/main.b2d1294e.css",
+    "main.js": "/M-Chat/static/js/main.278b1c3e.js",
+    "static/js/787.a7f71169.chunk.js": "/M-Chat/static/js/787.a7f71169.chunk.js",
+    "static/media/logo.png": "/M-Chat/static/media/logo.893002dec44ac4493c89.png",
+    "index.html": "/M-Chat/index.html",
+    "main.b2d1294e.css.map": "/M-Chat/static/css/main.b2d1294e.css.map",
+    "main.278b1c3e.js.map": "/M-Chat/static/js/main.278b1c3e.js.map",
+    "787.a7f71169.chunk.js.map": "/M-Chat/static/js/787.a7f71169.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2d1294e.css",
+    "static/js/main.278b1c3e.js"
+  ]
+}
